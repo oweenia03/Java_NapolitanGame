@@ -2,7 +2,7 @@
 ## 선택지형 공포 게임 제작서
 
 <a href="https://soundcloud.com/pinokimusic/auvsqqv8iayn?in=ih1q89pzse9c/sets/pinoki">
-  <img src="https://github.com/oweenia03/Introduction/blob/main/_site/assets/images/banners/nikoloz-gachechiladze-VjTs61poZdY-unsplash.jpg" alt="banner" title="🎵 클릭하면 관련 브금으로 이동합니다">
+  <img src="https://github.com/oweenia03/Introduction/blob/main/_site/assets/images/banners/nikoloz-gachechiladze-VjTs61poZdY-unsplash.jpg" alt="banner" title="🎵 Happy_Every_Day">
 </a>
 
 
