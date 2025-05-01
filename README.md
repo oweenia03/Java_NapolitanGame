@@ -1,6 +1,13 @@
 # 『괴이 마트에서 탈출하라!』  
 ## 선택지형 생존 공포 게임 제작서
-
+---
+layout: post
+language: Java
+excerpt_image(https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%90-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%84%9C%EC%9E%88%EB%8A%94-%EB%B9%88-%EC%A7%80%ED%95%98%EC%B2%A0%EC%97%AD-VjTs61poZdY)
+categories: assignment
+tags: [Java, Game, Assignment] 
+top: 1
+---
 ### Ⅰ. **기획 의도**
 제 1 목표는 **예외 처리 기능**이 중심이 되면서 창의적일 것이었습니다.
 나폴리탄 괴담은 다수의 안전 규칙이 존재하며, 이를 어겼을 때 위험한 일이 발생하는 특징을 가지고 있습니다.
